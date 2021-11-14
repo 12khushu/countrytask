@@ -1,0 +1,53 @@
+@media(min-width:320px) and (max-width:768px){
+    .banner_left h2{
+        font-size: 33px;
+    }
+    .object_div p {
+        font-size: 20px;
+    }
+    .xyz123 {
+        font-size: 18px;
+    }
+    .banner_left {
+        width: 100%;
+        padding: 40px 17px;
+    }
+    .banner_right {
+        padding: 45px 5px 0px;
+    }
+    .banner_right img {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .who_img {
+        cursor: pointer;
+    }
+    .who123 {
+        font-weight: 700;
+        font-size: 27px;
+        padding: 20px;
+    }
+    .success_heading {
+        padding: 20px;
+        font-size: 23px;
+        text-align: center;
+    }
+    .f_section {
+        padding: 30px;
+        color: #FFFFFF;
+    }
+    .mento_outer{
+        display: none;
+    }
+    .col-md-4.footer_icon {
+        margin-top: 50px;
+    }
+    .btn_know1 {
+        top: 105px;
+    }
+    .last_foot {
+        padding: 10px;
+        height: 80px;
+        font-size: 12px;
+    }
+}
